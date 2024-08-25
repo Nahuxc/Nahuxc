@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Nahuel Alexander Coronel,
 
-<h3>Contact And Social Networks</h3>
+## Contact And Social Networks
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-coronel-09a846229/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coronel98nahuel@gmail.com)
